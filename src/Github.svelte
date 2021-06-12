@@ -23,6 +23,7 @@
         <article>
             <img src={user.avatar_url} alt={user.login}>
             <div class="user-info">
+                <h2>Whattt</h2>
                 <h3>User: {user.login}</h3>
                 <a href={user.html_url} class="btn-primary" target="_blank"> githuburl</a>
             </div>
